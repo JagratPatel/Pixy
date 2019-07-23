@@ -1,3 +1,3 @@
 # _Pixy_
 # Installation code and file for pixy.
-# Pin Dicription Of Pixy2. 
+# Pin Dicription Of Pixy2_.

@@ -24,4 +24,5 @@ sudo cp pixy.rules /etc/udev/rules.d/
 
 cd ../../../build/pixymon/
 
+
 ./PixyMon
